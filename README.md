@@ -1,6 +1,6 @@
 # Burger-king
 # Live Demo
-- link: https://burgerkingclone-ashu.netlify.app/
+- link:https://burgerkingclone.netlify.app/
 
 🍔👑Welcome to the burger king clone repository👑🍔
 # Description📝
